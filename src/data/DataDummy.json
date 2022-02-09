@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "handikatest@sampoernamail.com",
+            "fullname": "Handika Kristofan",
+            "address": "St. Young New York 32, USA",
+            "gender": "Man"
+        },
+        {
+            "id": "2",
+            "email": "einstenian@mail.com",
+            "fullname": "Albert Einstein",
+            "address": "Texas, USA",
+            "gender": "Man"
+        }
+    ]
+}
