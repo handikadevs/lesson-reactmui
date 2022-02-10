@@ -7,6 +7,7 @@ import Dashboard from '../pages/Dashboard/Insight';
 import UserList from '../pages/Users/UsersList';
 import CreateNewUser from '../pages/Users/UsersCreate';
 import UserDetails from '../pages/Users/UserDetails';
+import Test from '../pages/_test';
 
 const Routes = () => {
     return (
@@ -17,6 +18,7 @@ const Routes = () => {
                 <Route path='users' element={< UserList />} />
                 <Route path='create_new_user' element={< CreateNewUser />} />
                 <Route path='user_detail' element={<UserDetails />} />
+                <Route path='test' element={<Test />} />
             </Route>
         </ReactRoutes>
     )

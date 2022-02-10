@@ -13,6 +13,13 @@
             "fullname": "Albert Einstein",
             "address": "Texas, USA",
             "gender": "Man"
+        },
+        {
+            "id": "3",
+            "email": "anya.nbl@mail.com",
+            "fullname": "Dinda Brilian Nur Anya Nabilah",
+            "address": "Texas, USA",
+            "gender": "Women"
         }
     ]
 }
